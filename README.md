@@ -28,7 +28,8 @@ User engargment:
     - MAU - Monthly active users
     - User stickiness - DAU/MAU/MAU Ratio
   
-Users Sessions
+Users Sessions:
+
     - Daily Sessions mean
     - Number of daily user sessions vs DAU  
     - Daily user sessions vs DAU  
@@ -43,6 +44,7 @@ Users Sessions
     - Average session duration by source Id, seconds  
 
 Cohorts:
+
     - Cohorts: monthly active users from each cohort
     - Monthly Cohorts: User Retention
     - CR - Conversion Rate by categories, %
@@ -50,6 +52,7 @@ Cohorts:
     - Average Conversion Rate by weekday
 
 Orders:
+
     - Number of orders vs DAU over time
     - Average number of orders per user over time
     - Average number of orders by weekday
@@ -57,11 +60,13 @@ Orders:
     - Monthly number of orders by source_id
 
 Profit & CLTV:
+
     - Profit over time
     - Monthly number of orders
     - Average Monthly Order Value over time
 
 Marketing:
+
     - Costs per source Id overall
     - Daily money spent over time
     - Monthly Marketing costs over time by source Id
